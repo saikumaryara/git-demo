@@ -14,6 +14,7 @@ public class GitTest {
 		System.out.println("new sub added");
 	}
 	public void mul(){
-		System.out.println("new mul added");
+		System.out.println("new mul added ");
+		System.out.println("new extar line added ");
 	}
 }
