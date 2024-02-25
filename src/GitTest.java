@@ -13,4 +13,7 @@ public class GitTest {
 	public void sub() {
 		System.out.println("new sub added");
 	}
+	public void mul(){
+		System.out.println("new mul added");
+	}
 }
